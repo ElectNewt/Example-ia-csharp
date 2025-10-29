@@ -1,0 +1,14 @@
+{
+  "inputs": [],
+  "servers": {
+    "ExampleIA03MCP": {
+      "type": "stdio",
+      "command": "dotnet",
+      "args": [
+        "run",
+        "--project",
+        "..\\ExampleIA03MCP.csproj"
+      ]
+    }
+  }
+}
