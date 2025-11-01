@@ -1,0 +1,5 @@
+﻿NetMentor is the personal brand of Iván Abad, Microsoft MVP and backend engineer specialized in .NET, C#, and distributed systems. Through his blog, YouTube channel, and courses, NetMentor makes complex topics like architecture, microservices, cloud, testing, and AI/LLMs accessible to Spanish-speaking developers in a clear and practical way.
+
+With a direct and educational style, NetMentor blends theory with real-world experience from large-scale projects, sharing best practices, common pitfalls, and lessons learned from day-to-day software engineering. He is also the author of books such as Construyendo Sistemas Distribuidos and Guía completa full stack con .NET, reinforcing his commitment to accessible, high-quality learning.
+
+NetMentor is not just a technical resource—it’s a growing community that fosters continuous improvement, curiosity for new technologies, and a passion for building robust, scalable, and well-designed software.
